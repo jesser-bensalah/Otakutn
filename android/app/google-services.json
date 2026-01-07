@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382952606812",
+    "project_id": "otakutn-ca928",
+    "storage_bucket": "otakutn-ca928.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382952606812:android:458eedd372c3d7619faa99",
+        "android_client_info": {
+          "package_name": "com.example.otakutn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASy8BwZKPGuWmVfJGg5vXm1Rt_f9h_uu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
